@@ -25,4 +25,3 @@ The project provides meaningful insights into financial risk levels and can assi
 This project is demonstrated using application preview screenshots and analytical results.
 ---
 
-# financial-risk-prediction
