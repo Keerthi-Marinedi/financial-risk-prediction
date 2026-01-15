@@ -24,4 +24,10 @@ The project provides meaningful insights into financial risk levels and can assi
 ## Note
 This project is demonstrated using application preview screenshots and analytical results.
 ---
+## Project Screenshots
+
+![Overview](Screenshot 2026-01-15 110944.png)
+![Model Results](Screenshot 2026-01-15 111003.png)
+![Risk Analysis](Screenshot 2026-01-15 111051.png)
+
 
